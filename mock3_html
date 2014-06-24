@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<link type="text/css" rel="stylesheet" href="mock3.css/">
+
+        <h1> gSchool Info. Lists: </h1>
+
+<div>Student Names:</div>
+        <ol>
+<ul>Shelby</ul>
+<ul>Kelly</ul>
+<ul>Bobby</ul>
+<ul>Ian</ul>
+        </ol>
+<div>Instructor Names:</div>
+        <ol>
+<ul>Hunter</ul>
+<ul>Kinsey</ul>
+<ul>Spencer</ul>
+<ul>Jeff</ul>
+<ul>Jeff</ul>
+</ol>
+
+</head>
+<body>
+<p>View Contact Info.</p>
+
+</body>
+</html>
